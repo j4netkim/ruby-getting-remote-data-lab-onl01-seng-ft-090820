@@ -7,4 +7,5 @@ class GetRequester
   uri = URI.parse(url)
 
 
+
 end
